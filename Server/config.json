@@ -1,0 +1,5 @@
+{
+    "localIP": "localhost",
+    "localPort": 20001,
+    "bufferSize": 1024
+}
